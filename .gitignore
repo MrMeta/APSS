@@ -1,0 +1,4 @@
+*.out
+
+# for Mac
+.DS_Store
